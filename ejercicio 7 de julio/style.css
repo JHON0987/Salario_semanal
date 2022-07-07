@@ -1,0 +1,21 @@
+.ali{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+input{
+    width: 200px;
+    height: 20px;
+    font-size: 15px;
+}
+input:focus,input::placeholder,input{
+    text-align: center;
+}
+button{
+    margin-top: 25px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
